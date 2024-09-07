@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\bin\Debug\net8.0-windows\listaTarefasC.exe
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\bin\Debug\net8.0-windows\listaTarefasC.deps.json
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\bin\Debug\net8.0-windows\listaTarefasC.runtimeconfig.json
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\bin\Debug\net8.0-windows\listaTarefasC.dll
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\bin\Debug\net8.0-windows\listaTarefasC.pdb
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.Form1.resources
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.dll
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\refint\listaTarefasC.dll
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.pdb
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\listaTarefasC.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\listaTarefasC\listaTarefasC\obj\Debug\net8.0-windows\ref\listaTarefasC.dll
